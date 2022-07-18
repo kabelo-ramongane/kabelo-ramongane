@@ -1,4 +1,4 @@
-# Hi there, I am Kabelo 👋
+# System.out.println("Hello world, I am Kabelo Ramongane"); 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kabelo-ramongane&show_icons=true&theme=dark"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabelo-ramongane&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
@@ -10,7 +10,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# My blogposts on Medium
+# System.out.println("My blog posts on Medium");
 <ul>
   <li><a href="https://medium.com/@ramongane/revising-george-polya-d835721ce461">Revising George Polya</a></li>
   <li><a href="https://medium.com/@ramongane/how-to-learn-programming-a5e6b74d09e0">How to learn programming</a></li>
